@@ -1,0 +1,4 @@
+name: manga
+version: "0.1.0"
+about: a CLI to download manga scans 
+author: Maxime V. <maxime.vaude@gmail.com>
